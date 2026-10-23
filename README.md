@@ -37,7 +37,8 @@ Every update is signed and checked before it installs, and your settings and clu
 IT teams that roll out the `.msi` themselves can turn the update check off by setting the environment variable
 `CLUSTERPILOT_UPDATES=off`.
 
-## Trial and plans
+## Free and plans
 
-Every installation includes 14 days of every feature. Plans, prices and the product tour:
+ClusterPilot is free to use, with no account and no time limit, for up to 3 clusters. Pro comes with a 14-day trial:
+in the app, click **Free plan** at the top and choose *Start the 14-day Pro trial*. Plans, prices and the product tour:
 [clusterpilot.nprd.cicdorchestrator.com](https://clusterpilot.nprd.cicdorchestrator.com/download)
