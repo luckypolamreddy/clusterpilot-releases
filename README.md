@@ -28,6 +28,15 @@ The installers aren't code-signed yet, so the first launch asks you to confirm:
 - **Windows:** SmartScreen → *More info* → *Run anyway*.
 - **macOS:** right-click the app → *Open* → *Open*.
 
+## Updates
+
+From version 0.8.2, ClusterPilot updates itself. When a new version is out, the app offers *Update now* or *Later*.
+Every update is signed and checked before it installs, and your settings and clusters are kept. If you have 0.8.0 or
+0.8.1, download the latest version above once; after that, updates arrive in the app.
+
+IT teams that roll out the `.msi` themselves can turn the update check off by setting the environment variable
+`CLUSTERPILOT_UPDATES=off`.
+
 ## Trial and plans
 
 Every installation includes 14 days of every feature. Plans, prices and the product tour:
